@@ -1,8 +1,7 @@
 """
 Gemini Live Assistant (Overlay & Audio)
 ---------------------------------------
-Author: [Your Name/GitHub Username]
-Date: 2024
+Author: waSStyle
 Description:
     A real-time voice and screen assistant using Google Gemini Live API.
     Features a transparent overlay GIF and system tray integration.
