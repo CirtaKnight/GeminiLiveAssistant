@@ -31,8 +31,8 @@ This tool runs in the background, captures your screen and microphone when trigg
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/gemini-live-assistant.git](https://github.com/your-username/gemini-live-assistant.git) \
-cd gemini-live-assistant \
+git clone https://github.com/CirtaKnight/GeminiLiveAssistant.git
+cd gemini-live-assistant 
 ```
 
 
@@ -93,7 +93,7 @@ pip install pyinstaller
 
 2. **Build the .exe:**
 ```bash
-pyinstaller --noconsole --onefile --icon=assets/logo.png --name="GeminiAssistant" main.py \
+pyinstaller --noconsole --onefile --icon=assets/logo.png --name="GeminiAssistant" main.py 
 ```
 
 3. **Deploy:**
