@@ -1,0 +1,15 @@
+# Python stuff
+__pycache__/
+*.pyc
+.venv/
+env/
+dist/
+build/
+*.spec
+
+# Environment variables (SECURITY RISK)
+.env
+
+# IDEs
+.idea/
+.vscode/
